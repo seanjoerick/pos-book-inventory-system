@@ -1,0 +1,105 @@
+Date : 2023-11-20 10:33:04
+Directory : c:\xampp\htdocs\finalcapstone
+Total : 74 files,  11051 codes, 961 comments, 1590 blanks, all 13602 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PHP        |         66 |      9,371 |        865 |      1,324 |     11,560 |
+| CSS        |          4 |        982 |         17 |        139 |      1,138 |
+| JavaScript |          4 |        698 |         79 |        127 |        904 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         74 |     11,051 |        961 |      1,590 |     13,602 |
+| . (Files)                                                                 |         22 |      5,182 |        443 |        659 |      6,284 |
+| admin_creation                                                            |          4 |        116 |         13 |         20 |        149 |
+| admin_dashboard                                                           |          5 |        359 |         32 |         61 |        452 |
+| inventory                                                                 |         22 |      2,887 |        242 |        384 |      3,513 |
+| point_of_sale                                                             |         21 |      2,507 |        231 |        466 |      3,204 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                  | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\xampp\htdocs\finalcapstone\admin_creation\admin_created.php            | PHP        |         22 |          3 |          2 |         27 |
+| c:\xampp\htdocs\finalcapstone\admin_creation\admin_creation.css           | CSS        |         48 |          3 |          9 |         60 |
+| c:\xampp\htdocs\finalcapstone\admin_creation\create_admin.php             | PHP        |         40 |          6 |          9 |         55 |
+| c:\xampp\htdocs\finalcapstone\admin_creation\reset_admin_creation.php     | PHP        |          6 |          1 |          0 |          7 |
+| c:\xampp\htdocs\finalcapstone\admin_dashboard\admin_dashboard.js          | JavaScript |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\finalcapstone\admin_dashboard\admin_dashboard.php         | PHP        |        216 |          6 |         14 |        236 |
+| c:\xampp\htdocs\finalcapstone\admin_dashboard\admin_dashboard_f.php       | PHP        |         45 |          3 |         26 |         74 |
+| c:\xampp\htdocs\finalcapstone\admin_dashboard\adsemester.php              | PHP        |         76 |         18 |         17 |        111 |
+| c:\xampp\htdocs\finalcapstone\admin_dashboard\adsemesterswal.php          | PHP        |         22 |          5 |          3 |         30 |
+| c:\xampp\htdocs\finalcapstone\authentication.php                          | PHP        |         29 |          4 |          7 |         40 |
+| c:\xampp\htdocs\finalcapstone\codes.php                                   | PHP        |        204 |         14 |         12 |        230 |
+| c:\xampp\htdocs\finalcapstone\commands.php                                | PHP        |        749 |        197 |        171 |      1,117 |
+| c:\xampp\htdocs\finalcapstone\database.php                                | PHP        |        275 |         25 |         60 |        360 |
+| c:\xampp\htdocs\finalcapstone\error.php                                   | PHP        |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\finalcapstone\history.php                                 | PHP        |        305 |         21 |         31 |        357 |
+| c:\xampp\htdocs\finalcapstone\includes.php                                | PHP        |         20 |          0 |         10 |         30 |
+| c:\xampp\htdocs\finalcapstone\index.php                                   | PHP        |        156 |         10 |         13 |        179 |
+| c:\xampp\htdocs\finalcapstone\inventory\add_book.php                      | PHP        |        293 |          5 |         19 |        317 |
+| c:\xampp\htdocs\finalcapstone\inventory\add_college_programs.php          | PHP        |        296 |          2 |         28 |        326 |
+| c:\xampp\htdocs\finalcapstone\inventory\add_getyearlevels.php             | PHP        |         16 |          0 |          3 |         19 |
+| c:\xampp\htdocs\finalcapstone\inventory\add_seniorhigh_strands.php        | PHP        |        303 |          2 |         31 |        336 |
+| c:\xampp\htdocs\finalcapstone\inventory\archive.php                       | PHP        |        425 |         46 |         46 |        517 |
+| c:\xampp\htdocs\finalcapstone\inventory\book_view.php                     | PHP        |         72 |         11 |         12 |         95 |
+| c:\xampp\htdocs\finalcapstone\inventory\bookstyle.css                     | CSS        |         98 |          1 |         12 |        111 |
+| c:\xampp\htdocs\finalcapstone\inventory\edit_book.php                     | PHP        |         23 |          3 |          8 |         34 |
+| c:\xampp\htdocs\finalcapstone\inventory\fetch_book_id.php                 | PHP        |         17 |          4 |          7 |         28 |
+| c:\xampp\htdocs\finalcapstone\inventory\get_programs_and_associations.php | PHP        |         24 |          7 |          9 |         40 |
+| c:\xampp\htdocs\finalcapstone\inventory\get_strand_and_associations.php   | PHP        |         24 |          7 |          9 |         40 |
+| c:\xampp\htdocs\finalcapstone\inventory\get_subjects.php                  | PHP        |         14 |          4 |          7 |         25 |
+| c:\xampp\htdocs\finalcapstone\inventory\get_yearlevels.php                | PHP        |         24 |          6 |         10 |         40 |
+| c:\xampp\htdocs\finalcapstone\inventory\inventory.php                     | PHP        |        612 |         84 |         79 |        775 |
+| c:\xampp\htdocs\finalcapstone\inventory\inventoryalerts.php               | PHP        |         17 |          3 |          2 |         22 |
+| c:\xampp\htdocs\finalcapstone\inventory\inventorycommands.php             | PHP        |        214 |         20 |         31 |        265 |
+| c:\xampp\htdocs\finalcapstone\inventory\inventorymodals.php               | PHP        |        208 |          0 |          3 |        211 |
+| c:\xampp\htdocs\finalcapstone\inventory\populate_subject_ids.php          | PHP        |         15 |          4 |          5 |         24 |
+| c:\xampp\htdocs\finalcapstone\inventory\toggle_status.php                 | PHP        |         24 |          3 |          7 |         34 |
+| c:\xampp\htdocs\finalcapstone\inventory\update_book.php                   | PHP        |        102 |         14 |         30 |        146 |
+| c:\xampp\htdocs\finalcapstone\inventory\update_program.php                | PHP        |         33 |          8 |         13 |         54 |
+| c:\xampp\htdocs\finalcapstone\inventory\update_strand.php                 | PHP        |         33 |          8 |         13 |         54 |
+| c:\xampp\htdocs\finalcapstone\login.css                                   | CSS        |         97 |          1 |         16 |        114 |
+| c:\xampp\htdocs\finalcapstone\login.php                                   | PHP        |          3 |          0 |          3 |          6 |
+| c:\xampp\htdocs\finalcapstone\logout.php                                  | PHP        |          7 |          3 |          2 |         12 |
+| c:\xampp\htdocs\finalcapstone\management.php                              | PHP        |        419 |         19 |         29 |        467 |
+| c:\xampp\htdocs\finalcapstone\managementalerts.php                        | PHP        |        702 |         78 |         39 |        819 |
+| c:\xampp\htdocs\finalcapstone\modals.php                                  | PHP        |        514 |          6 |         30 |        550 |
+| c:\xampp\htdocs\finalcapstone\nav.php                                     | PHP        |         63 |          6 |         10 |         79 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\checkout.js                   | JavaScript |        408 |         32 |         58 |        498 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\checkout.php                  | PHP        |        290 |          8 |         60 |        358 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\customerpicker.php            | PHP        |         24 |          7 |          4 |         35 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\function.php                  | PHP        |         91 |          5 |         27 |        123 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\pos.js                        | JavaScript |        280 |         42 |         64 |        386 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\pos.php                       | PHP        |        194 |          5 |         50 |        249 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\posadd.php                    | PHP        |         41 |          2 |         11 |         54 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\posmodal.php                  | PHP        |        156 |          2 |         11 |        169 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\posremove.php                 | PHP        |         15 |          7 |          5 |         27 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\possearch.php                 | PHP        |        134 |         15 |         25 |        174 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\possearch2.php                | PHP        |         19 |          6 |          6 |         31 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\possearchclear.php            | PHP        |        118 |         13 |         21 |        152 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\possidebar.php                | PHP        |        106 |          3 |          6 |        115 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\posview.php                   | PHP        |         72 |         11 |         12 |         95 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\process_checkout.php          | PHP        |         12 |          5 |          6 |         23 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\process_receipt.php           | PHP        |         16 |          2 |          3 |         21 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\receipt.php                   | PHP        |        317 |         21 |         59 |        397 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\receipt_check.php             | PHP        |         18 |          6 |          6 |         30 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\register_customer.php         | PHP        |         52 |         10 |          9 |         71 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\register_student.php          | PHP        |         95 |         17 |         13 |        125 |
+| c:\xampp\htdocs\finalcapstone\point_of_sale\void_transaction.php          | PHP        |         49 |         12 |         10 |         71 |
+| c:\xampp\htdocs\finalcapstone\script.js                                   | JavaScript |         10 |          5 |          4 |         19 |
+| c:\xampp\htdocs\finalcapstone\staff_dashboard.php                         | PHP        |        144 |          9 |         15 |        168 |
+| c:\xampp\htdocs\finalcapstone\staffadmin.php                              | PHP        |        452 |         19 |         44 |        515 |
+| c:\xampp\htdocs\finalcapstone\staffadminalerts.php                        | PHP        |         24 |          1 |          2 |         27 |
+| c:\xampp\htdocs\finalcapstone\style.css                                   | CSS        |        739 |         12 |        102 |        853 |
+| c:\xampp\htdocs\finalcapstone\test.php                                    | PHP        |        179 |          8 |         29 |        216 |
+| c:\xampp\htdocs\finalcapstone\testfunction.php                            | PHP        |         91 |          5 |         29 |        125 |
+| Total                                                                     |            |     11,051 |        961 |      1,590 |     13,602 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
